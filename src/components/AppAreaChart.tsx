@@ -7,7 +7,7 @@ import {
   ChartTooltipContent,
   type ChartConfig,
 } from "@/components/ui/chart";
-import { Bar, AreaChart, CartesianGrid, XAxis, YAxis, Area } from "recharts";
+import { AreaChart, CartesianGrid, XAxis, YAxis, Area } from "recharts";
 
 const chartConfig = {
   desktop: {
